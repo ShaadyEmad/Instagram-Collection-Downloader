@@ -1,0 +1,4 @@
+pyinstaller
+selenium
+webdriver-manager
+yt-dlp
