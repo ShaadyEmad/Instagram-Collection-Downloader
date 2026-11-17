@@ -1,0 +1,12 @@
+[project]
+name = "instagram-collection-downloader"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pyinstaller>=6.22.3",
+    "selenium>=4.52.0",
+    "webdriver-manager>=4.1.2",
+    "yt-dlp>=2026.10.26",
+]
