@@ -1,0 +1,19 @@
+# Downloaded media
+*.mp4
+*.m4a
+videos/
+
+# Private / generated user files
+cookies.txt
+links.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ruff_cache/
+
+# PyInstaller
+build/
+dist/
+*.spec
